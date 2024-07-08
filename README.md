@@ -18,7 +18,7 @@ Welcome to the **Mario Game Dev** project! This project showcases a web-based pl
 
 ![Demo Screenshot](./src/images/screenshot.png)
 
-Check out the live demo [here](#)soon.
+Check out the live demo [here](#) soon.
 
 ## Features
 
