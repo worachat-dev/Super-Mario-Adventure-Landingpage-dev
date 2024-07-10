@@ -6,6 +6,11 @@ Welcome to the **Mario Game Dev** project! This project showcases a web-based pl
 Anime Trailers in [Thai](https://www.youtube.com/watch?v=v5Vg3UghQ1Y) 
 and in [English](https://www.youtube.com/watch?v=tMMke8QAcqA) 
 
+To get started, clone this repository and set up your development environment.
+- [Landing page:](https://github.com/worachat-dev/Super-Mario-Adventure-Landingpage-dev) 
+- [Game dev.:](https://github.com/worachat-dev/Super-Mario-Adventure-Game-dev) 
+
+
 ## Table of Contents
 
 - [Demo](#demo)
