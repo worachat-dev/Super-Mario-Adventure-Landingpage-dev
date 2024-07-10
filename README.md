@@ -4,7 +4,7 @@ Welcome to the **Mario Game Dev** project! This project showcases a web-based pl
 
 ## Anime Trailers
 Anime Trailers in [Thai](https://www.youtube.com/watch?v=v5Vg3UghQ1Y) 
-Anime Trailers in [English](https://www.youtube.com/watch?v=tMMke8QAcqA) 
+and in [English](https://www.youtube.com/watch?v=tMMke8QAcqA) 
 
 ## Table of Contents
 
